@@ -12,10 +12,14 @@ This project is a lightweight, fully customizable on-screen keypad designed for 
 # User Instructions
 ## Installation & Requirements
 You will need Python installed. Before running the script, install the required dependencies via your terminal/command prompt:
+
 `
 Bash
+`
+`
 pip install keyboard pywin32
 `
+
 
 ## Design Mode (Edit)
 When you launch the app, it starts in Design Mode. This is where you build your layout.
