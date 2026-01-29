@@ -15,8 +15,7 @@ You will need Python installed. Before running the script, install the required 
 
 `
 Bash
-`
-`
+
 pip install keyboard pywin32
 `
 
